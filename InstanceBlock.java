@@ -23,7 +23,7 @@ class A{
 class InstanceBlock extends A{
     public static void main(String args[]){
 
-       // System.out.println(A.x);
+       System.out.println(A.x);
        
     }
 }
