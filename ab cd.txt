@@ -1,0 +1,2 @@
+hello this file is edited inside the new-feature file.
+this is 2nd line of edited file.
