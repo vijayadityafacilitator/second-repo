@@ -3,14 +3,14 @@ class A{
     static int x=2;
     
  
-    // A(){
-    //     x = 20;
-    //     System.out.println( x);
-    // }
-    // A(int y){
-    //     x = y;
-    //     System.out.println(x);
-    // }
+    A(){
+        x = 20;
+        System.out.println( x);
+    }
+    A(int y){
+        x = y;
+        System.out.println(x);
+    }
     {
         x = 30;
         System.out.println(x);
